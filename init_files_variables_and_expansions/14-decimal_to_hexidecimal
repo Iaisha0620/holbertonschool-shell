@@ -1,2 +1,2 @@
 #!/bin/bash
-printf \n$((16#10)) $DECIMAL
+printf '%x/n' $DECIMAL
