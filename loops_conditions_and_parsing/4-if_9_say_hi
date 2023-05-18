@@ -6,6 +6,6 @@ do
 	echo "Best School"
 if [$count -et 9]
 do
-	echo "Best School"
-	"Hi\n"
+	echo "Best School\n"
+	"Hi"
 done.
