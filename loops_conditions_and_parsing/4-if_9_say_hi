@@ -11,5 +11,5 @@ do
 		echo -e "Best School $count\nHi"
 	fi
 	echo "Best School"
-	(( count+1 ))
+	(( count++ ))
 done.
