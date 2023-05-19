@@ -14,7 +14,7 @@ do
 	elif (( numb % 3 == 0 ))
 	then
 		echo "Fizz"
-	elif (( num % ==0 ))
+	elif (( num % 5 == 0 ))
 	then
 		echo "Buzz"
 	else
