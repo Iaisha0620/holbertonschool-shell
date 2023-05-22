@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#
+#tell the story of passwd
 
 file_h="/etc/passwd"
 f1=""
