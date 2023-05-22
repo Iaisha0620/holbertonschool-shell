@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-#Write a Bash script that displays the content of the file '/etc/passwd'
-#displays username
-#displays user id
-#displays Home directory path for the user
-
-
