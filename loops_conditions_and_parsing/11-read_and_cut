@@ -4,7 +4,4 @@
 #displays user id
 #displays Home directory path for the user
 
-le IFS= read -r line
-do
-		echo "$line" | cut -f 1,3,6 -d ':'
-	done < "/etc/passwd"
+
